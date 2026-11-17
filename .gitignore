@@ -1,0 +1,10 @@
+
+# Database ignores (do not commit databases)
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+*.rdb
+*.mdb
+*.accdb
+.~lock.*

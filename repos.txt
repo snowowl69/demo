@@ -1,0 +1,14 @@
+# Add the FULL paths to your 10-12 repositories below, one per line.
+# Example: C:\Users\Raghav\Desktop\raga\ml face classifier
+# Example: C:\Users\Raghav\Documents\my_project
+C:\Users\Raghav\Desktop\raga\parallel-chess-programming-engine
+C:\Users\Raghav\Desktop\raga\nptel\esd-quiz-app
+C:\Users\Raghav\Desktop\raga\raghav portffolopw
+C:\Users\Raghav\Desktop\raga\placemnt bot
+C:\Users\Raghav\Desktop\raga\placemnt bot\chrome-extension
+C:\Users\Raghav\Desktop\raga\placemnt bot\web-app
+C:\Users\Raghav\Desktop\raga\watchguard
+C:\Users\Raghav\Desktop\raga\khata
+C:\Users\Raghav\Desktop\raga\megha portfolio
+C:\Users\Raghav\Desktop\raga\ALGO TRADING\algo_trading
+C:\Users\Raghav\Desktop\raga\SIH hackthon\AI-Based-Disaster-Prediction-and-Response-System
