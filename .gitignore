@@ -1,4 +1,8 @@
 
+# Local configs & paths
+repos.txt
+*.log
+
 # Database ignores (do not commit databases)
 *.db
 *.sqlite

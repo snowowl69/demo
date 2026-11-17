@@ -1,0 +1,3 @@
+# Add the FULL paths to your repositories below, one per line.
+# Example: C:\path\to\your\project1
+# Example: C:\path\to\your\project2
